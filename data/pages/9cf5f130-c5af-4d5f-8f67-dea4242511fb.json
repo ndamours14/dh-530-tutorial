@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This is an essay about Matt Cohen's experiences and works."
+        }
+      ]
+    }
+  ],
+  "title": "Essay",
+  "parent": "b1aeb1e7-9ca8-4ee2-859c-acb507ae1ddf",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "essay",
+  "created_at": "2026-02-13T23:56:32.663Z",
+  "created_by": "ndamours14",
+  "updated_at": "2026-02-13T23:56:32.663Z",
+  "updated_by": "ndamours14"
+}
