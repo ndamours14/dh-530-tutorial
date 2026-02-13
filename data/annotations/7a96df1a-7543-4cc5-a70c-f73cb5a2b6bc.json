@@ -1,5 +1,31 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 120,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this part of the audio, Matt Cohen draws on his childhood experiences in his work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Tags",
+          "tag": "Matt Cohen"
+        },
+        {
+          "category": "Tags",
+          "tag": "Analysis"
+        }
+      ],
+      "uuid": "f391a748-33aa-4321-b637-25823b3fe575"
+    }
+  ],
   "event_id": "6be94e1e-e209-4522-8bee-8f85859bbc7d",
   "set": "New",
   "source_id": "6fce8026-159a-4d13-9220-b8b5d77b1cdb"
